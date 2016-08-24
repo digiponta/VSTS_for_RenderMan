@@ -1,0 +1,18 @@
+slim 1 appearance toslim {
+  instance displacement "keke01" "keke01" {
+    description {}
+    eval [slimShaderMacro displacement]
+    parameter float range {
+      label "range"
+      default 1
+    }
+    parameter float wavelength {
+      label "wavelength"
+      default 0.1
+    }
+    parameter float amplitude {
+      label "amplitude"
+      default 0.1
+    }
+  }
+}

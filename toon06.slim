@@ -1,0 +1,61 @@
+slim 1 appearance toslim {
+  instance surface "toon06" "toon06" {
+    description {}
+    eval [slimShaderMacro surface]
+    parameter color iv_border {
+      label "iv_border"
+      default {0.1 0.1 0.1}
+    }
+    parameter color iv_shadow {
+      label "iv_shadow"
+      default {0.2 0.2 0.2}
+    }
+    parameter color iv_bright {
+      label "iv_bright"
+      default {1 1 1}
+    }
+    parameter float iv_range_shadow {
+      label "iv_range_shadow"
+      default 0.7
+    }
+    parameter float iv_range_bright {
+      label "iv_range_bright"
+      default 0.9
+    }
+    parameter float iv_range_border {
+      label "iv_range_border"
+      default 0.2
+    }
+    parameter float iv_transparency {
+      label "iv_transparency"
+      default 1
+    }
+    parameter float iv_bump_scale {
+      label "iv_bump_scale"
+      default 0.2
+    }
+    parameter float iv_eye_ds {
+      label "iv_eye_ds"
+      default 0
+    }
+    parameter float iv_eye_dt {
+      label "iv_eye_dt"
+      default 0
+    }
+    parameter string texture_face {
+      label "texture_face"
+      subtype "texture"
+      default {}
+    }
+    parameter string texture_eye {
+      label "texture_eye"
+      subtype "texture"
+      default {}
+    }
+    parameter string bump_name {
+      label "bump_name"
+      subtype "texture"
+      default {}
+    }
+  }
+}
