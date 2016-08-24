@@ -10,7 +10,7 @@
 
 注）下記のパラメータは相対的な値です。
 
-    "iv_border": 縁線の色
+    "iv_border": 縁線の色 (縁線は、Maya TOON機能を使ってください)
     "iv_shadow": 影の色
     "iv_bright": スペキュラの色
     "iv_range_shadow": 影の幅
