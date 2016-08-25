@@ -27,15 +27,27 @@
  - IN ENGLISH LANGUAGE
 
     -- "iv_border": border color (You should use the feature of Maya TOON for generating outline curves.)
+    
     -- "iv_shadow": shadow color
+    
     -- "iv_bright": specular color
+    
     -- "iv_range_shadow": width for shadow
+    
     -- "iv_range_bright": width for specular
+    
     -- "iv_range_border": width for border (You should not use it with Maya Toon outline.）
+    
     -- "iv_transparency": transparency (not implemented）
+    
     -- "iv_bump_scale": scale for bump map
+    
     -- "iv_eye_ds": vertical offet for the texure for eyes
+    
     -- "iv_eye_dt": Horizontal offset for the texure for eyes
+    
     -- "texture_face": Texure file for the face
+    
     -- "texture_eye": Texure file for the eyes
+    
     -- "bump_name": Displacement map file for eyes 
