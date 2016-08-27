@@ -44,5 +44,5 @@
 - SIGGRAP99 Course Notes 17, "Non-Photorealistic Rendering" 
 - Steve Upstill, "The RenderMan Companion A programmer's Guide to Prealistics Computer Graphics" 
 
-[]
+[REMARKS]
 - I had lost the SL source code for the keke01.
