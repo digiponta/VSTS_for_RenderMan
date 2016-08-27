@@ -1,8 +1,10 @@
 # VSTS_for_RenderMan
 [Master]
-    Very Simple Toon Shader (REYES) for Pixar RenderMan 3.1 or the later, 
-    toon05 and toon06 made by Hirofumi Inomata, (C) 1998-1999, 
+    Very Simple Toon Shader (REYES) for Pixar RenderMan 3.1 or the later: toon06 (for a face) and toon05 (for others),
+    made by Hirofumi Inomata, (C) 1998-1999, 
     MIT License ( https://opensource.org/licenses/mit-license.php )
+    
+    
 
 [PARAMETERS] 
 
