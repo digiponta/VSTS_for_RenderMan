@@ -51,3 +51,7 @@
     -- "texture_eye": Texure file for the eyes
     
     -- "bump_name": Displacement map file for eyes 
+
+[REFERENCES]
+- SIGGRAP99 Course Notes 17, "Non-Photorealistic Rendering" 
+- Steve Upstill, "The RenderMan Companion A programmer's Guide to Prealistics Computer Graphics" 
