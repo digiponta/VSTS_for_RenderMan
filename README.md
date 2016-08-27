@@ -24,7 +24,7 @@
 - "texture_eye": 目のテキスチャ
 - "bump_name": 目のへこみのディスプレースメントマップ 
 
-( IN ENGLISH LANGUAGE )
+( IN ENGLISH LANGUAGE ) Each value is relative.
 
 - "iv_border": border color (You should use the feature of Maya TOON for generating outline curves.)
 - "iv_shadow": shadow color
@@ -46,4 +46,4 @@
 
 [REMARKS]
 - I had lost the SL source code for the keke01.
-- I think that you need a little modification for your requirements. So, I will be glad, if you add the url to your REFERENCES.
+- I think that you need a little modification for your requirements. So, I will be glad, if you add this url to your REFERENCES.
